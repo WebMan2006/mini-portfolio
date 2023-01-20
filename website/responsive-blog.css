@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@500&family=Poppins&family=Roboto&family=Source+Sans+Pro&display=swap');
+@media screen and (max-width: 450px) {
+    header img{
+        display: flex;
+        width: 30px;
+        height: 30px;
+        margin-right: 20px;
+        cursor: pointer;
+    }
+    header a{
+        display: none;
+    }
+    section{
+        margin: 24px auto;
+    }
+    section h1{
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 60px;
+        color: #21243D;
+    }
+    .info{
+        width: 420px;
+    }
+
+}
